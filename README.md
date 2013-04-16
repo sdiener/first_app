@@ -1,0 +1,1 @@
+This is Sam in the Ruby on Rails Application
